@@ -1,0 +1,11 @@
+Laptop or pc
+    specs minimum:
+        processor: intel i3 3rd gen
+        ram: 4gm
+        storage: ssd 64 gb
+        gpu: no matter
+gcc compilor
+vs code
+internet
+
+# thanks for watching repo one star please
