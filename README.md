@@ -1,6 +1,6 @@
 # C Programming
 <br>
-#Harry
+##Harry
 <br>
 <img src="harry.png" alt="Harry">
 <br>
