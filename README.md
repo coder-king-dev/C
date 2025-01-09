@@ -1,7 +1,11 @@
 # C Programming
 <br>
+#Harry
+<br>
 <img src="harry.png" alt="Harry">
-
+<br>
+<p>Notes and Course provide by Harry thanks for Harry</p>
+<br>
 Welcome to the **C Language** repository!
 
 ## How to Compile
