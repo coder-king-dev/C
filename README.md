@@ -11,3 +11,7 @@ gcc file_name.c -o output_file_name
 ```bash
 ./output_file_name
 ```
+<br>
+<h2>⭐ If you like this repository, give it a star!</h2>
+<hr>
+<h1>Thanks CodeWithharry for course!</h1>
