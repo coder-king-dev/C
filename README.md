@@ -1,6 +1,6 @@
 # C Programming
 <br>
-<h2>Harry</h2>
+<h2 style="color:DodgerBlue;">Harry</h2>
 <img src="harry.png" alt="Harry">
 <br>
 <p>Notes and Course provide by Harry thanks for Harry</p>
