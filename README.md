@@ -1,4 +1,6 @@
 # C Programming
+<br>
+<img src="harry.png" alt="Harry">
 
 Welcome to the **C Language** repository!
 
