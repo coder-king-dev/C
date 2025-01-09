@@ -1,7 +1,6 @@
 # C Programming
 
 Welcome to the **C Language** repository!
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fcodewithharry%2Fp%2FCp7JuceLzYC%2F&psig=AOvVaw0Apye9x5pYUjtXFms4xYGg&ust=1736491602241000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPivmLyF6IoDFQAAAAAdAAAAABAE" alt="Harry">
 
 ## How to Compile
 Use the following command to compile your C file:
