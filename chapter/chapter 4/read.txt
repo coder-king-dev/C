@@ -1,0 +1,8 @@
+Loops in C language
+type of Loops
+    there are 3 type of Loops
+    1.while
+    2.for
+    3.do-while
+
+let's go
