@@ -1,0 +1,7 @@
+| Aspect            | `puts`                          | `printf`                         |
+|--------------------|----------------------------------|----------------------------------|
+| Purpose           | Prints a string with a newline.  | Prints formatted output.         |
+| Newline Behavior  | Automatically adds a newline.    | Requires manual newline.         |
+| Formatting        | No formatting options.           | Supports placeholders.           |
+| Return Value      | Non-negative on success or `EOF`. | Number of characters printed.    |
+| Use Case          | Simple string output.            | Complex or formatted output.     |
