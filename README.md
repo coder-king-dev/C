@@ -1,8 +1,5 @@
 # C Programming
 <br>
-<h2 style="color:DodgerBlue;">Harry</h2>
-<img src="harry.png" alt="Harry">
-<br>
 <p>Notes and Course provide by Harry thanks for Harry</p>
 <br>
 Welcome to the **C Language** repository!
