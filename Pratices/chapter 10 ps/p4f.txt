@@ -1,0 +1,2 @@
+Name: Rustam, Salary: 9000000
+Name: Ram, Salary: 5000000
